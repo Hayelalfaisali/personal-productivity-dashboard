@@ -102,6 +102,7 @@ A comprehensive, feature-rich productivity dashboard built with Next.js, React, 
 
 ## 📁 Project Structure
 
+```
 personal-productivity-dashboard/
 ├── app/                    # Next.js App Router
 │   ├── api/                # API routes
@@ -128,13 +129,14 @@ personal-productivity-dashboard/
 ├── hooks/                  # Custom React hooks
 ├── lib/                    # Utility functions
 ├── public/                 # Static assets
-├── .eslintrc.json         # ESLint configuration
-├── .gitignore             # Git ignore file
-├── next.config.js         # Next.js configuration
-├── package.json           # Project dependencies
-├── README.md              # Project documentation
-├── tailwind.config.ts     # Tailwind CSS configuration
-└── tsconfig.json          # TypeScript configuration
+├── .eslintrc.json          # ESLint configuration
+├── .gitignore              # Git ignore file
+├── next.config.js          # Next.js configuration
+├── package.json            # Project dependencies
+├── README.md               # Project documentation
+├── tailwind.config.ts      # Tailwind CSS configuration
+└── tsconfig.json           # TypeScript configuration
+```
 
 ## 🧩 Key Components
 
