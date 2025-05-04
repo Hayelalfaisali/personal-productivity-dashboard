@@ -102,8 +102,7 @@ A comprehensive, feature-rich productivity dashboard built with Next.js, React, 
 
 ## 📁 Project Structure
 
-\`\`\`
-nextjs-dashboard/
+personal-productivity-dashboard/
 ├── app/                    # Next.js App Router
 │   ├── api/                # API routes
 │   ├── analytics/          # Analytics page
@@ -136,7 +135,6 @@ nextjs-dashboard/
 ├── README.md              # Project documentation
 ├── tailwind.config.ts     # Tailwind CSS configuration
 └── tsconfig.json          # TypeScript configuration
-\`\`\`
 
 ## 🧩 Key Components
 
